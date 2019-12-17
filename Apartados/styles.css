@@ -23,3 +23,24 @@ nav{
 .menuCSS3 ul li a:hover + ul, .menuCSS3 ul li ul:hover {
 	display: block;
 }
+
+label.datos{
+	display: inline-block;
+	width: 120px;
+}
+#texto{
+	display: inline-block;
+	width: 120px;
+	float:left;
+}
+#mensaje
+{
+	display: inline-block;
+	width: 270px;
+	height: 200px;
+	float:left;
+}
+fieldset
+{
+	border-style: double;
+}

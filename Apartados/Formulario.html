@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css"/>
+        <link rel="Shortcut Icon" href="../Imagenes/icono.png">
+        <title>Contacto</title>
+	</head>
+	<body>
+            <nav class="menuCSS3">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="#">HTML5</a>
+                            <ul>
+                                <li><a href="html5.html">Definici&oacute;n</a></li>
+                                <li><a href="novedadeshtml5.html">Novedades</a></li>
+                                <li><a href="etiquetashtml5.html">Etiquetas Nuevas</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">CSS3</a>
+                            <ul>
+                                <li><a href="css3.html">Definici&oacute;n</a></li>
+                                <li><a href="caracteristicascss3.html">Caracter&iacute;sticas</a></li>
+                                <li><a href="ventajasdesventajascss3.html">Ventajas y desventajas</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">JavaScript</a>
+                            <ul>
+                                <li><a href="javascript.html">Definici&oacute;n</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Herramientas</a>
+                            <ul>
+                                <li><a href="developertool.html">Firefox Developer Tools</a></li>
+                                <li><a href="DevTools.html">Chrome DevTools</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="Formulario.html">Contacto</a></li>
+                    </ul>
+                </nav>
+		<form id="Formulario">
+			<fieldset>
+			<legend>Contacte con nosotros</legend>
+			<label class="datos" for="Nombre">Nombre:</label><input type="text" placeholder="Nombre" ></input></br></br>
+			<label class="datos" for="Apellidos" >Apellidos:</label><input type="text" placeholder="Apellidos"></input></br></br>
+			<label class="datos" for="Correo">E-Mail:</label><input type="text" placeholder="E-Mail"></input></br></br>
+            <label class="datos" for="Provincia">Provincia</label>
+            <select name="lista" form="Formulario">
+                <option value="Almeria">Almeria</option>
+                <option value="Cadiz">Cadiz</option>
+                <option value="Granada">Granada</option>
+                <option value="Huelva">Huelva</option>
+                <option value="Jaen">Jaen</option>
+                <option value="Malaga">Malaga</option>
+                <option value="Sevilla">Sevilla</option>
+            </select><br><br>
+            <label id="texto" for="mensaje">Mensaje: </label>
+            <textarea id="mensaje" name="mensaje" placeholder="Mensaje"></textarea></br></br></br></br></br></br></br></br></br></br></br></br>
+            <fieldset>
+                <legend>Desea recibir informaci&oacute;n de:</legend>
+                <input type="radio" name="informacion">HTML5</input>
+                <input type="radio" name="informacion">CSS3</input>
+                <input type="radio" name="informacion">JavaScript</input>
+                <input type="radio" name="informacion">Herrramientas</input>
+            </fieldset>
+			</fieldset>			
+			<input type="checkbox" name="opcion"></input><label for="opciones">Subscribete a nuestro newsletter</label></br></br>
+			<button type="submit" onclick= "">Enviar</button>
+		</form>
+	</body>
+</html>
