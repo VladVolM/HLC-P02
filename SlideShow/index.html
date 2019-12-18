@@ -29,49 +29,43 @@
                 <img class="slideshow" src="Imagenes/Imagen5.png">
         
                 </img>
-
-<section>
+                <section>
                     <nav class="menuCSS3">
                             <ul>
-                                <li><a href="index.html">Inicio</a></li>
+                                <li><a onclick="limpiar();currentSlide(1);">Inicio</a></li>
                                 <li><a href="#">HTML5</a>
                                     <ul>
                                         <li><a onclick="readTextFile(&#34;html5.txt&#34;);currentSlide(2);">Definici&oacute;n</a></li>
-                                        <li><a href="novedadeshtml5.html">Novedades</a></li>
-                                        <li><a href="etiquetashtml5.html">Etiquetas Nuevas</a></li>
+                                        <li><a onclick="readTextFile(&#34;novedadeshtml5.txt&#34;);currentSlide(2);">Novedades</a></li>
+                                        <li><a onclick="readTextFile(&#34;etiquetashtml5.txt&#34;);currentSlide(2);">Etiquetas Nuevas</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#">CSS3</a>
                                     <ul>
-                                        <li><a href="css3.html">Definici&oacute;n</a></li>
-                                        <li><a href="caracteristicascss3.html">Caracter&iacute;sticas</a></li>
-                                        <li><a href="ventajasdesventajascss3.html">Ventajas y desventajas</a></li>
+                                        <li><a onclick="readTextFile(&#34;css3.txt&#34;);currentSlide(3);">Definici&oacute;n</a></li>
+                                        <li><a onclick="readTextFile(&#34;caracteristicascss3.txt&#34;);currentSlide(3);">Caracter&iacute;sticas</a></li>
+                                        <li><a onclick="readTextFile(&#34;ventajasdesventajascss3.txt&#34;);currentSlide(3);">Ventajas y desventajas</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#">JavaScript</a>
                                     <ul>
-                                        <li><a href="javascript.html">Definici&oacute;n</a></li>
+                                        <li><a onclick="readTextFile(&#34;javascript.txt&#34;);currentSlide(4);">Definici&oacute;n</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#">Herramientas</a>
                                     <ul>
-                                        <li><a href="developertool.html">Firefox Developer Tools</a></li>
-                                        <li><a href="DevTools.html">Chrome DevTools</a></li>
+                                        <li><a onclick="readTextFile(&#34;developertool.txt&#34;);currentSlide(5);">Firefox Developer Tools</a></li>
+                                        <li><a onclick="readTextFile(&#34;DevTools.txt&#34;);currentSlide(5);">Chrome DevTools</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="Formulario.html">Contacto</a></li>
+                                <li><a onclick="readTextFile(&#34;Formulario.txt&#34;);currentSlide(6);">Contacto</a></li>
                             </ul>
                     </nav>
-				<article id="descarga">
-					HOLA
-				</article>
+				<article id="descarga"></article>
             </section>
 
                 <script>currentSlide(1);</script>
             
             <p>Prueba</p>
-
-
-
     </body>
 </html>

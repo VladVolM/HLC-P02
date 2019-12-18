@@ -36,4 +36,7 @@ function readTextFile(file)
     }
     rawFile.send(null);
 }
+function limpiar(){
+	document.getElementById("descarga").innerHTML="";
+}
   

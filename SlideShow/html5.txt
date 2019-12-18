@@ -1,5 +1,5 @@
 <h1>Definici&oacute;n</h1>
-            <div>
+            <article>
                    <p>HTML5  es la &uacute;ltima versi&oacute;n de HTML. El t&eacute;rmino representa dos conceptos diferentes:
                        <ul>
                            <li>Se trata de una nueva versi&oacute;n de HTML, con nuevos elementos, atributos y comportamientos.</li>
@@ -19,9 +19,9 @@
                         </ul>
                     </p>
                     <p>El desarrollo de este lenguaje de marcado es regulado por el Consorcio W3C.</p>
-            </div>
-            <div>
+            </article>
+            <article>
                 <p>
                     Ejemplo de un archivo de HTML5
                 </p>
-            </div>
+            </article>

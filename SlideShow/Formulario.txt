@@ -1,0 +1,30 @@
+<form id="Formulario" onsubmit="validarForm()">
+			<fieldset>
+			<legend>Contacte con nosotros</legend>
+			<label class="datos" for="Nombre">Nombre:</label><input type="text" name="Nombre" placeholder="Nombre"></input></br></br>
+			<label class="datos" for="Apellidos" >Apellidos:</label><input type="text" name="Apellidos" placeholder="Apellidos"></input></br></br>
+			<label class="datos" for="Correo">E-Mail:</label><input type="text" name="Correo" placeholder="E-Mail"></input></br></br>
+            <label class="datos" for="Provincia">Provincia</label>
+            <select name="lista" form="Formulario">
+                <option value="">- Selecciona un valor -</option>
+                <option value="Almeria">Almeria</option>
+                <option value="Cadiz">Cadiz</option>
+                <option value="Granada">Granada</option>
+                <option value="Huelva">Huelva</option>
+                <option value="Jaen">Jaen</option>
+                <option value="Malaga">Malaga</option>
+                <option value="Sevilla">Sevilla</option>
+            </select><br><br>
+            <label id="texto" for="mensaje">Mensaje: </label>
+            <textarea id="mensaje" name="mensaje" placeholder="Mensaje"></textarea></br></br></br></br></br></br></br></br></br></br></br></br>
+            <fieldset>
+                <legend>Desea recibir informaci&oacute;n de:</legend>
+                <input type="radio" id="informacion" name="informacion">HTML5</input>
+                <input type="radio" id="informacion" name="informacion">CSS3</input>
+                <input type="radio" id="informacion" name="informacion">JavaScript</input>
+                <input type="radio" name="informacion">Herrramientas</input>
+            </fieldset>
+			</fieldset>			
+			<input type="checkbox" name="opcion"></input><label for="opciones">Subscribete a nuestro newsletter</label></br></br>
+			<button type="submit">Enviar</button>
+		</form>
