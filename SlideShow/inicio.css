@@ -3,6 +3,7 @@ body{
 	height: 100%;
 	width: 100%;
 	overflow-x: hidden;
+	background-image: url('Imagenes/Ladrillo.png');
 }
 
 section{
@@ -15,10 +16,14 @@ section{
 	
 }
 
-.slideshow{
-	display: block;
-}
+
 
 article{
 	background-color: cyan;
+}
+img.slideshow{
+	background-image: url('Imagenes/Ladrillo.png');
+	height:100%;
+	width:100%;
+	display: block;
 }
