@@ -9,7 +9,7 @@ function validarForm()
 
 	if(nombre == null || nombre == "" || nombre.length == 0  || /^\s+$/.test(nombre) || !isNaN(nombre))
 	{
-		alert('Debe insertar el nombre');
+		window.alert('Debe insertar el nombre');
 		return false;
 	}
 	if(apellidos == null || apellidos == "" || apellidos.length == 0  || /^\s+$/.test(apellidos) || !isNaN(apellidos))
@@ -40,4 +40,6 @@ function validarForm()
 		alert("Debe seleccionar una opción");
 		return false;
 	}
+	alert("Correcto");
+	limpiar();
 }

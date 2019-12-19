@@ -1,4 +1,4 @@
-<form id="Formulario" onsubmit="validarForm()">
+<form id="Formulario" onsubmit="return validarForm();">
 			<fieldset>
 			<legend>Contacte con nosotros</legend>
 			<label class="datos" for="Nombre">Nombre:</label><input type="text" name="Nombre" placeholder="Nombre"></input></br></br>

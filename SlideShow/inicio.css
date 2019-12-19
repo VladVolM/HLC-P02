@@ -8,10 +8,11 @@ body{
 section{
 	position: absolute;
 	top: 0;
-	padding-top:1%;
-	padding-bottom:1%;
+	padding:1%;
 	background-color: brown;
-	width:100%;
+	width:96%;
+	margin:1%;
+	
 }
 
 .slideshow{

@@ -39,4 +39,6 @@ function readTextFile(file)
 function limpiar(){
 	document.getElementById("descarga").innerHTML="";
 }
-  
+function Titulo(t){
+	document.getElementById("title").innerHTML=t;
+}
