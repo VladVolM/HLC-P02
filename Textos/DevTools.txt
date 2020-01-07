@@ -1,5 +1,6 @@
-<h1>Chrome DevTools</h1>
             <article>
+				<img class="imagen" src="Imagenes/chrome.jpeg">
+				<h1>Chrome DevTools</h1>
                 <p>DevTools son un conjunto de herramientas de depuraci&oacute;n integradas dentro de Google Chrome, 
 				est&aacute;s nos proporcionan acceso profundo a lo que est&aacute; pasando en un sitio web, 
 				ya sea para resolver problemas de estilo con CSS o de programaci&oacute;n con JavaScript, entre muchas cosas m&aacute;s.</p>

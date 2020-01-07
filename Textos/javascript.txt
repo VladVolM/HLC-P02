@@ -1,4 +1,5 @@
 <article>
+<img class="imagen" src="Imagenes/javascript.png">
                 <h1>Definici&oacute;n</h1>
                 <p>
                     <p>JavaScript (abreviado com&uacute;nmente JS) es un lenguaje de programaci&oacute;n interpretado, dialecto del est&aacute;ndar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, d&eacute;bilmente tipado y dinámico.</p>

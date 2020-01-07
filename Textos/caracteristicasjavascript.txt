@@ -1,4 +1,5 @@
 <article>
+<img class="imagen" src="Imagenes/javascript.png">
 	<h1>Caracter&iacutesticas JavaScript</h1>
 	<p>
 		Las siguientes caracter&iacute;sticas son comunes a todas las implementaciones que se ajustan al est&aacute;ndar ECMAScript, a menos que especifique expl&iacute;citamente en caso contrario.

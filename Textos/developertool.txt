@@ -1,5 +1,6 @@
-<h1>Developer Tool Firefox</h1>
             <article>
+            <img class="imagen" src="Imagenes/firefox.jpeg">
+                 <h1>Developer Tool Firefox</h1>
                 <p>Firefox Developer Edition es una versi&oacute;n de Firefox adaptada para desarrolladores, ofreciendo las &uacute;ltimas caracter&iacute;sticas y herramientas de desarrollo experimental. La actual edici&oacute;n de desarrollo (Firefox Developer Edition) incluye estos cambios en las herramientas de desarrollador:<p>
 				<ul>
 					<li>Registro del servidor en la Consola Web</li>
@@ -10,8 +11,31 @@
 				</ul>
             </article>
             <article>
-                <p></p>
-                <ul>
-                    <li></li>
-                </ul>
+                <h3>Caracter&iacute;sticas Firefox Developer Edition </h3>
+                <p>Estas son todas las caracter&iacutesticas que tiene Firefox Developer Edition, algunas de ellas comunes a la versión original de Firefox y otras más avanzadas disponibles solo aqui.</p>
+                <ol>
+                    <li>Herramientas de autorizaci&oacute;n para sitios web y aplicaciones web.</li>
+                    <ul>
+                        <li>Scratchpad: Un editor construido dentro de Firefox que te permite escribir y ejecutar JavaScript.</li>
+                        <li>Editor de estilos: Revisa y edita estilos CSS para la p&aaacute;gina actual.</li>
+                        <li>Editor de sombras: Revisa y edita los vertex y fragmentos de sombras usado por WebGL.</li>
+                        <li>Editor de audio web: Examina el gr&aacute;fico de los nodos de audio en un contexto de audio y modifica sus par&aacute;metros.</li>
+                    </ul>
+                    <li>Examina, explora y depura sitios web y aplicaciones web.</li>
+                    <ul>
+                        <li>Consola Web: Mira mensajes de registro (logs) en una p&aacute;gina web e interactua con la p&aacute;gina usando JavaScript.</li>
+                        <li>Inspector de p&aacute;gina: Revisa y modifica el HTML y CSS de la p&aacute;gina.</li>
+                        <li>Depurador JavaScript: Examina y modifica el JavaScript que est&aacute; ejecutandose in una p&aacute;gina</li>
+                        <li>Monitor de red: Mira las solicitudes de red hechas cuando una p&aacute;gina est&aacute; cargada.</li>
+                        <li>Inspector de almacenamiento: Inspecciona cookies, almacenamiento local, Inspect cookies, local storage, indexedDB y almacenamiento de sesi&oacute;n presente en una p&aacute;gina.</li>
+                        <li>Barra de desarrollador: Una interface de l&iacute;nea de comandos para el desarrollador.</li>
+                        <li>Vista 3D: Visualizaci&oacute;n 3D de la p&aacute;gina.</li>
+                        <li>Eyedropper: Selecciona un color de la p&aacute;gina.</li>
+                        <li>Trabajando con iframes: Como seleccionar un iframe en particular.</li>
+                    </ul>
+                <li>Herramientas para desarrollo m&oacute;vil.</li>
+                    <ul>
+                        <li>Responsive Design View: Mira como tu sitio o aplicaci&oacute;n se ver&aacute; en diferentes pantallas sin cambiar el tama&ntilde;o de la ventana del navegador.</li>
+                    </ul>
+                </ol>
             </article>

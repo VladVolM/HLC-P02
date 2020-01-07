@@ -1,4 +1,5 @@
 <article>
+<img class="imagen" src="Imagenes/javascript.png">
 	<h1>Uso Web</h1>
 	<p>
 		El uso m&aacute;s com&uacute;n de JavaScript es escribir funciones embebidas o incluidas en p&aacute;ginas HTML y que interact&uacute;an con el Document Object Model (DOM o Modelo de Objetos del Documento) de la p&aacute;gina. Algunos ejemplos sencillos de este uso son:

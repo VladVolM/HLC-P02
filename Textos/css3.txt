@@ -1,5 +1,6 @@
-<h1>Definici&oacute;n</h1>
             <article>
+			<img class="imagen" src="Imagenes/css3.jpeg">
+			<h1>Definici&oacute;n</h1>
                    <p>
                         El nombre hojas de estilo en cascada viene del ingl&eacute;s Cascading Style Sheets, del que toma sus siglas. CSS es un lenguaje usado para definir la presentaci&oacute;n de un documento estructurado escrito en HTML o XML (y por extensi&oacute;n en XHTML). El W3C(World Wide Web Consortium) es el encargado de formular la especificaci&oacute;n de las hojas de estilo que servir&aacute;n de est&aacute;ndar para los agentes de usuario o navegadores.<br/>
                         La idea que se encuentra detr&aacute;s del desarrollo de CSS es separar la estructura de un documento de su presentaci&oacute;n.<br/>

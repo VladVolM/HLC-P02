@@ -85,7 +85,10 @@ img.slideshow{
 	margin-left: auto;
 	margin-right: auto;
 }
-
+.imagen{
+	float: left;
+	margin: 0px 30px 30px 0px;
+}
 .slideshow-container {
   max-width: 1000px;
   position: relative;

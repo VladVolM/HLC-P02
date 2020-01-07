@@ -1,5 +1,6 @@
-<h1>Novedades HTML5</h1>
             <article>
+				<img class="imagen" src="Imagenes/html5.png">
+				<h1>Novedades HTML5</h1>
                 <p>En t&eacute;rminos de Markup, el HTML5 introduce algunos elementos que hacen que se aggiorne a los tiempos que corren. As&iacute;, muchas de las novedades est&aacute;n relacionadas con la forma de construir websites que se tiene en la actualidad. Una de las m&aacute;s importantes novedades est&aacute; relacionada con la inserci&oacute;n de multimedia en los sitios web, que ahora contar&aacute;n con etiquetas HTML especiales para poder ser incluidos. Por otro lado, algunos aspectos de diseño también son incluidos en el lenguaje, as&iacute; como tambi&eacute;n algunos detalles de navegaci&oacute;n. Veremos todo esto en algunas líneas.</p>
             </article>
             <article>
