@@ -1,0 +1,23 @@
+<article>
+	<h1>Uso Web</h1>
+	<p>
+		El uso m&aacute;s com&uacute;n de JavaScript es escribir funciones embebidas o incluidas en p&aacute;ginas HTML y que interact&uacute;an con el Document Object Model (DOM o Modelo de Objetos del Documento) de la p&aacute;gina. Algunos ejemplos sencillos de este uso son:
+		<ul>
+			<li>Cargar nuevo contenido para la p&aacute;gina o enviar datos al servidor a trav&eacute;s de AJAX sin necesidad de recargar la p&aacute;gina (por ejemplo, una red social puede permitir al usuario enviar actualizaciones de estado sin salir de la p&aacute;gina).</li>
+			<li>Animaci&oacute;n de los elementos de p&aacute;gina, hacerlos desaparecer, cambiar su tama&ntilde;o, moverlos, etc</li>
+			<li>Contenido interactivo, por ejemplo, juegos y reproducci&oacute;n de audio y v&iacute;deo.</li>
+			<li>Validaci&oacute;n de los valores de entrada de un formulario web para asegurarse de que son aceptables antes de ser enviado al servidor</li>
+			<li>Transmisi&oacute;n de informaci&oacute;n sobre los h&aacute;bitos de lectura de los usuarios y las actividades de navegaci&oacute;n a varios sitios web. Las p&oacute;ginas Web con frecuencia lo hacen para hacer an&aacute;lisis web, seguimiento de anuncios, la personalizaci&oacute;n o para otros fines.</li>
+		</ul>
+	</p>
+	<p>
+	Dado que el c&oacute;digo JavaScript puede ejecutarse localmente en el navegador del usuario (en lugar de en un servidor remoto), el navegador puede responder a las acciones del usuario con rapidez, haciendo una aplicaci&oacute;n m&aacute;s sensible. Por otra parte, el c&oacute;digo JavaScript puede detectar acciones de los usuarios que HTML por s&iacute; sola no puede, como pulsaciones de teclado. Las aplicaciones como Gmail se aprovechan de esto: la mayor parte de la l&oacute;gica de la interfaz de usuario est&aacute; escrita en JavaScript, enviando peticiones al servidor (por ejemplo, el contenido de un mensaje de correo electr&oacute;nico). La tendencia cada vez mayor por el uso de la programaci&oacute;n Ajax explota de manera similar esta t&eacute;cnica. 
+	</p>
+	<p>
+		Un motor de JavaScript (tambi&uacute;n conocido como int&eacute;rprete de JavaScript o implementaci&oacute;n JavaScript) es un int&eacute;rprete que interpreta el c&oacute;digo fuente de JavaScript y ejecuta la secuencia de comandos en consecuencia. El primer motor de JavaScript fue creado por Brendan Eich en Netscape Communications Corporation, para el navegador web Netscape Navigator. El motor, denominado SpiderMonkey, está implementado en C. Desde entonces, ha sido actualizado (en JavaScript 1.5) para cumplir con el ECMA-262 edición 3. El motor Rhino, creado principalmente por Norris Boyd (antes de Netscape, ahora en Google) es una implementaci&oacute;n de JavaScript en Java. Rhino, como SpiderMonkey, es compatible con el ECMA-262 edici&oacute;n 3. 
+	</p>
+	<p>
+		Un navegador web es, con mucho, el entorno de acogida m&aacute;s com&uacuten para JavaScript. Los navegadores web suelen crear objetos no nativos, dependientes del entorno de ejecuci&oacuten, para representar el Document Object Model (DOM) en JavaScript. El servidor web es otro entorno com&uacuten de servicios. Un servidor web JavaScript suele exponer sus propios objetos para representar objetos de petici&oacuten y respuesta HTTP, que un programa JavaScript podr&iacutea entonces interrogar y manipular para generar din&aacutemicamente p&aacuteginas web. <br>
+		Debido a que JavaScript es el &uacute;nico lenguaje por el que los m&aacute;s populares navegadores comparten su apoyo, se ha convertido en un lenguaje al que muchos frameworks en otros lenguajes compilan, a pesar de que JavaScript no fue dise&ntilde;ado para tales prop&oacutesitos.42​ A pesar de las limitaciones de rendimiento inherentes a su naturaleza din&aacutemica, el aumento de la velocidad de los motores de JavaScript ha hecho de este lenguaje un entorno para la compilaci&oacuten sorprendentemente factible. 
+	</p>
+</article>

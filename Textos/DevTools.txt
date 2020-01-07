@@ -1,0 +1,34 @@
+<h1>Chrome DevTools</h1>
+            <article>
+                <p>DevTools son un conjunto de herramientas de depuraci&oacute;n integradas dentro de Google Chrome, 
+				est&aacute;s nos proporcionan acceso profundo a lo que est&aacute; pasando en un sitio web, 
+				ya sea para resolver problemas de estilo con CSS o de programaci&oacute;n con JavaScript, entre muchas cosas m&aacute;s.</p>
+            </article>
+			<article>
+			<h3>Abrir Chrome DevTools</h3>
+				<p>
+					Para abrir Chrome DevTools en Google Chrome podemos hacerlo de la siguiente manera:
+					<ul>
+						<li>En el men&uacute; de Chrome, selecciona M&aacute;s herramientas>DeveloperTools.</li>
+						<li>Hacer click con el bot&oacute;n derecho del rat&oacute;n en un elemento de la p&aacute;gina y selecciona Inspect</li>
+						<li>Mediante la combinaci&oacute;n de teclas Ctrl+Mayusculas+I(Windows) o Cmd+Opci&oacute;n+I(Mac)</li>
+					</ul>
+					</p>
+			</article>
+			<article>
+				<h3>Pesta&ntilde;as de Chrome DevTools</h3>
+				<p>
+					Vamos a describir las pesta&ntilde;as que podemos utilizar con la herramienta Chrome DevTools
+				</p>
+				<ul>
+					<li>Modo dispositivo: Con esta pesta&ntildea podemos desarrollar experiencias web con una completa capacidad de respuestas y que prioricen los dispositivos m&oacute;viles</li>
+					<li>Elementos: Con esta pesta&ntildea podemos iterar la distribuci&oacuten y el dise&ntilde;o del sitio web mediante la manipulaci&oacute;n de DOM y CSS</li>
+					<li>Consola: Con esta pesta&ntilde;a podemos registrar informaci&oacute;n de diagn&oacute;stico durante el desarrollo o como un shell para interactuar con el c&oacutedigo JavaScript en la p&aacutegina</li>
+					<li>Red: Con esta pesta&ntildea podemos obtener la informaci&oacuten de los recursos solicitados y descargados, y optimizar el rendimiento de carga de tu p&aacutegina</li>
+					<li>Fuente: Con esta pesta&ntildea podemos depurar el c&oacutedigo JavaScript con puntos de interrupci&oacuten o conecta los archivos locales mediante espacios de trabajo para usar el editor en tiempo real de DevTools</li>
+					<li>Cronograma: Con esta pesta&ntildea podemos mejorar el rendimiento en tiempo de ejecuci&oacute;n de la p&aacutegina mediante la grabaci&oacute;n y la exploraci&oacute;n de los diferentes eventos que ocurren durante el ciclo de vida de un sitio</li>
+					<li>Perfiles: Con esta pesta&ntildea podemos pedir m&aacutes informaci&oacuten que la que proporciona la pesta&ntildea Cronograma por ejemplo, para rastrear p&eacute;rdidas de memoria</li>
+					<li>Aplicaci&oacute;n: Con esta pesta&ntildea podemos inspeccionar todos los recursos que se cargan, entre otros, bases de datos IndexedDB o WebSQL, almacenamiento local y de sesi&oacute;n, cookies, cach&eacute; de la app, im&aacute;genes, fuentes y hojas de estilo</li>
+					<li>Seguridad: Con esta pesta&ntildea podemos depurar problemas de contenido mixto, problemas de certificado y m&aacutes</li>
+				</ul>
+			</article>
