@@ -1,0 +1,17 @@
+<h1>Developer Tool Firefox</h1>
+            <article>
+                <p>Firefox Developer Edition es una versi&oacute;n de Firefox adaptada para desarrolladores, ofreciendo las &uacute;ltimas caracter&iacute;sticas y herramientas de desarrollo experimental. La actual edici&oacute;n de desarrollo (Firefox Developer Edition) incluye estos cambios en las herramientas de desarrollador:<p>
+				<ul>
+					<li>Registro del servidor en la Consola Web</li>
+					<li>B&uacutesqueda r&aacute;pida de la regla sobre escrita en la declaraci&oacute;n del CSS</li>
+					<li>Usar en consola en el item de menu contextual en el Inspector</li>
+					<li>Opci&oacute;n estricto para flitrado en las reglas de la vista</li>
+					<li>Entradas de red en la consola ahora enlazada al Monitor de Red</li>
+				</ul>
+            </article>
+            <article>
+                <p></p>
+                <ul>
+                    <li></li>
+                </ul>
+            </article>
