@@ -187,8 +187,9 @@ img.slideshow{
 		display:block;
 		position:absolute;
 	}
-	li{
+	.menuCSS3 li{
 	width:176px;
+	vertical-align: middle;
 	}
 
 	.menuCSS3 ul li ul li a:hover + ul, .menuCSS3 ul li ul li ul:hover {
