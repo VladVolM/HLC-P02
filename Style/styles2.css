@@ -171,11 +171,11 @@ img.slideshow{
 		display:block;
 	}
 	#menuinicio{
-		width:100%;
+		width:10%;
 		height:10%;
 	}
 	#menuinicio li img{
-		width:10%;
+		width:176px;
 		height:10%;
 	}
 
@@ -187,6 +187,10 @@ img.slideshow{
 		display:block;
 		position:absolute;
 	}
+	li{
+	width:176px;
+	}
+
 	.menuCSS3 ul li ul li a:hover + ul, .menuCSS3 ul li ul li ul:hover {
 	display: inline-block;
 	position:absolute;
