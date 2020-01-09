@@ -21,8 +21,3 @@
                     </p>
                     <p>El desarrollo de este lenguaje de marcado es regulado por el Consorcio W3C.</p>
             </article>
-            <article>
-                <p>
-                    Ejemplo de un archivo de HTML5
-                </p>
-            </article>

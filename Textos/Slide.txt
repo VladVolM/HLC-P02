@@ -1,3 +1,4 @@
+<p>En esta p&aacute;gina vamos a hablar de las siguientes tecnolog&iacute;as</p>
 <div class="slideshow-container">
 				<img class="slideshow" src="Imagenes/html5.png">
         
