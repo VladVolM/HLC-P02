@@ -1,8 +1,8 @@
 nav{
 	border-color: #191C26;
+	position:relative;
+	z-index:990;
 }
-
-
 
 li{
 	width:100%;
@@ -14,9 +14,11 @@ li{
 	margin: 0;
 	list-style: none;
 }
+
 #menu{
 	display:none;
 }
+
 .menuCSS3 a {
 	display: block;
 	padding: 2em;
@@ -24,23 +26,24 @@ li{
 	text-decoration: none;
 	color: #191C26;
 }
+
 .menuCSS3 a:hover {
 	background-color: #CC673B;
 }
 
-
-
 .menuCSS3 ul li ul li ul {
 	display: none;
 	z-index:999;
-
 }
+
+.menuCSS3 ul {
+	z-index:999;
+}
+
 .menuCSS3 ul li ul li a:hover + ul, .menuCSS3 ul li ul li ul:hover {
 	display: block;
 	position:absolute;
 }
-
-
 
 label.datos{
 	display: inline-block;
@@ -51,19 +54,17 @@ label.datos{
 	width: 120px;
 	float:left;
 }
-#mensaje
-{
+#mensaje {
 	display: inline-block;
 	width: 270px;
 	height: 200px;
 	float:left;
 }
-fieldset
-{
+fieldset {
 	border-style: double;
 }
 
-body{
+body {
 	margin: 0%;
 	height: 100%;
 	width: 100%;
@@ -95,10 +96,12 @@ img.slideshow{
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .imagen{
 	float: left;
 	margin: 0px 30px 30px 0px;
 }
+
 .slideshow-container {
   max-width: 1000px;
   position: relative;
@@ -169,14 +172,20 @@ img.slideshow{
 	}
 	#menu{
 		display:block;
+		height:82;
+		width:176px;
+		background-color: rgb(248, 248, 248);
+		border-radius: 25px 25px 0px 0px;
 	}
+
 	#menuinicio{
 		width:10%;
 		height:10%;
 	}
+
 	#menuinicio li img{
 		width:176px;
-		height:10%;
+		height:82px;
 	}
 
 	#grupomenu{
@@ -195,6 +204,9 @@ img.slideshow{
 	.menuCSS3 ul li ul li a:hover + ul, .menuCSS3 ul li ul li ul:hover {
 	display: inline-block;
 	position:absolute;
-}
+	}
 
+	section{
+	border-radius: 25px 0px 0px 0px;
+	}
 }
