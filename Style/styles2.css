@@ -149,6 +149,9 @@ img.slideshow{
 
 @media only screen and (max-width: 960px){
 
+	.menuCSS3 a {
+		font-size:14px
+	}
 	.ulid {
 		display: block;
 		padding: 0;
